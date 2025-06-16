@@ -16,7 +16,7 @@ It is still raw, so you will need to get to a lower level to write the typescrip
 
 This is not meant to be production ready (of course), but it is a great way to learn.
 
-![image](public/image.png)
+![image]
 
 ## Setup
 
